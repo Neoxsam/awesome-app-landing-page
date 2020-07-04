@@ -42,8 +42,10 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Evénements et activités à Paris # Optional
+marketing_desc: Parissi c'est le moyen simple de découvrir des événements à Paris. Vous serez tenus à jour et en temps réel de tous ce qui se passe autour de chez vous. Concert, balade, atelier, visite guidée, exposition, photographie, projection, festival, événement sportif... Plus d'excuses pour ne pas sortir.
+
+
 
 #
 # Social Links
@@ -53,7 +55,7 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 social-links:
   github:
   facebook:
-  twitter:
+  twitter: parissi_app
   pinterest:
   instagram:
   email:
